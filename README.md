@@ -1,7 +1,7 @@
-# www.jvtc.jx.cn首页新闻爬取
+# 首页新闻爬取www.jvtc.jx.cn
 
 #### 介绍
-www.jvtc.jx.cn首页新闻爬取存入数据库，已包含sql脚本
+首页新闻爬取存入数据库，已包含sql脚本www.jvtc.jx.cn
 
 #### 软件架构
 软件架构说明
